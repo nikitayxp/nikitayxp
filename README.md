@@ -48,7 +48,7 @@ Python automation script to automatically download and organize Google Classroom
 - Maintained IT equipment and edited multimedia content.
 
 ## 🎓 Education
-- **Professional Higher Education in Software Development (CTeSP)** — ISTEC Lisbon · 2025–2027
+- **Professional Higher Education in Software Development (CTeSP)** — ISTEC Lisbon · 2025-now
 - **Technical Course in IT Systems Management and Programming** — Esc. Pedro Alexandrino · 2022–2025
 
 ## 🌍 Languages
