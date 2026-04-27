@@ -37,19 +37,6 @@ A fitness workout tracking web application inspired by Hevy. Log exercises, trac
 Python automation script to automatically download and organize Google Classroom materials locally.
 `Python` `Google API` `OS Automation`
 
-## 🎯 Experience
-
-### IT Intern · Wellow Network, Lisbon · 2025
-- Formatted, maintained, and configured Windows corporate environments (Onboarding).
-- Resolved technical incidents and installed enterprise software.
-
-### IT Intern · Colégio Monte Maior, Lisbon · 2024
-- Provided technical support to teachers and students.
-- Maintained IT equipment and edited multimedia content.
-
-## 🎓 Education
-- **Professional Higher Education in Software Development (CTeSP)** — ISTEC Lisbon · 2025-now
-- **Technical Course in IT Systems Management and Programming** — Esc. Pedro Alexandrino · 2022–2025
 
 ## 🌍 Languages
 - 🇵🇹 Portuguese: Native
